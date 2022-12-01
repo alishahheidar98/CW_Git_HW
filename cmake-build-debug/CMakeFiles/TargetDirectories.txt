@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/CW-Git_HW/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/CW-Git_HW/cmake-build-debug/CMakeFiles/CW_Git_HW.dir
+C:/Users/user/Desktop/CW-Git_HW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
