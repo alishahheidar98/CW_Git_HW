@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "This is the master branch." << std::endl;
+    std::cout << "After change." << std::endl;
     return 0;
 }
