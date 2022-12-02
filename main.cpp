@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "After change." << std::endl;
+    std::cout << "Changed program." << std::endl;
     return 0;
 }
